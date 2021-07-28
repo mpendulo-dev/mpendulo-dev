@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [covid-stats](https://github.com/mpendulo-dev/covid-stats)
 
-- 🌱 I’m currently learning **Web Development**
-
 - 💬 Ask me about **JavaScript,and Angular**
 
 - 📫 How to reach me **mpendulo.dev@gmail.com**
