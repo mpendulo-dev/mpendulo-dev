@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpendulo-dev&show_icons=true&locale=en" alt="mpendulo-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpendulo-dev&" alt="mpendulo-dev" /></p>
+
