@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpendulo-dev" alt="mpendulo-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mpendulo_real" target="blank"><img src="https://img.shields.io/twitter/follow/mpendulo_real?logo=twitter&style=for-the-badge" alt="mpendulo_real" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mpendulo_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mpendulo_dev?logo=twitter&style=for-the-badge" alt="mpendulo_dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mpendulo_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mpendulo_real" height="30" width="40" /></a>
+<a href="https://twitter.com/mpendulo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mpendulo_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/mpendulosibiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mpendulosibiya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16545643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16545643" height="30" width="40" /></a>
 </p>
